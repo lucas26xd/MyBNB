@@ -1,0 +1,5 @@
+ID: 2
+Cliente: Lucas Santos
+Cidade: Cruz
+Estado: Ceará
+Forma de pagamento: Cartão

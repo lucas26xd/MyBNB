@@ -1,0 +1,5 @@
+ID: 3
+Cliente: Estevão Ferreira
+Cidade: Tauá
+Estado: Ceará
+Forma de pagamento: Dinheiro
